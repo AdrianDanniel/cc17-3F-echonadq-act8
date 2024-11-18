@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Find Books To Read"
+        android:text="Find Some books to Read"
         android:textSize="20sp"
         android:textStyle="italic"
         android:layout_marginBottom="10dp"
